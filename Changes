@@ -1,0 +1,9 @@
+Alterações do módulo Lingua::PT::Atomizador
+
+0.01  Wed Jan 07, 2003
+	- escolhida uma das funções para "oficial" desta primeira versão.
+	- adicionados testes à funcionalidade básica;
+	- adicionada a função tokeniza e tokenize do módulo Lingua::PT::PLN
+	- versão original; criada usando o h2xs 1.23 com opções
+		-X -O -A -b 5.6.1 Lingua::PT::Atomizador
+

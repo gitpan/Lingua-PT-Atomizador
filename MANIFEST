@@ -1,0 +1,8 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Lingua-PT-Atomizador.t
+lib/Lingua/PT/Atomizador.pm
+t/testes
+META.yml
